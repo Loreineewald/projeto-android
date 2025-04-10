@@ -5,7 +5,12 @@ Com Professor <strong>Gustavo Guanabara</strong>.
 
 Uma página web responsiva inspirada no sistema Android, com foco em design moderno, bom uso de tipografia, cores harmoniosas e recursos multimídia.
 
----
+--
+
+## 📱 Responsividade
+A página se adapta perfeitamente a diferentes tamanhos de tela (desktop, tablet e celular), utilizando media queries e técnicas de layout com Flexbox.
+
+--
 
 ## 🌐 Acesse o projeto online
 
@@ -14,12 +19,8 @@ Uma página web responsiva inspirada no sistema Android, com foco em design mode
 
 --
 
-## 📱 Responsividade
-
-A página se adapta perfeitamente a diferentes tamanhos de tela (desktop, tablet e celular), utilizando media queries e técnicas de layout com Flexbox.
-
---
-
 ## 📱 Escaneie com seu celular
 
-![QR Code](./qr_code_projeto_android.png)
+<p align="center">
+  <img src="./qr_code_projeto_android.png" alt="QR Code Projeto Android" width="200">
+</p>
