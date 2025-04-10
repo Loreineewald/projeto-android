@@ -9,7 +9,7 @@ Uma página web responsiva inspirada no sistema Android, com foco em design mode
 
 ## 🌐 Acesse o projeto online
 
-🔗 [Clique aqui para visualizar](https://loreineewald.github.io/projeto-android/)
+🔗 [Clique aqui para visualizar](https://loreineewald.github.io/projeto-android/) <br>
 📦 [Ver repositório no GitHub](https://github.com/loreineewald/projeto-android)
 
 --
@@ -17,10 +17,6 @@ Uma página web responsiva inspirada no sistema Android, com foco em design mode
 ## 📱 Responsividade
 
 A página se adapta perfeitamente a diferentes tamanhos de tela (desktop, tablet e celular), utilizando media queries e técnicas de layout com Flexbox.
-
-### 🖥️ Desktop
-
-![Versão Desktop](https://raw.githubusercontent.com/loreineewald/projeto-android/main/imagens/capa.png)
 
 --
 
